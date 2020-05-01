@@ -17,6 +17,7 @@ The model is trained taking into account following factors:
        'hiv_positive', 'hypertension', 'other_chronic',
        'risk_infection', 'risk_mortality']
 
+# Model and Usage
 
-
+The model_severity.ipynb notebook contains the code for preprocessing and training. The models folder contains the saved models and scalers. The app.py file contains code for hosting.
 
