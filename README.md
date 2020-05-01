@@ -23,5 +23,5 @@ The model_severity.ipynb notebook contains the code for preprocessing and traini
 
 Here is the model Workflow:
 
-![Model](https://github.com/hananshafi/COVID19-Infection-and-Mortality-Risk/COVID-19(1).png)
+![Model](https://github.com/hananshafi/COVID19-Infection-and-Mortality-Risk/blob/master/workflow.png)
 
