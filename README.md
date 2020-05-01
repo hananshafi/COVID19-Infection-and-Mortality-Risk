@@ -22,5 +22,6 @@ The model is trained taking into account following factors:
 The model_severity.ipynb notebook contains the code for preprocessing and training. The models folder contains the saved models and scalers. The app.py file contains code for hosting.
 
 Here is the model Workflow:
-![Model Workflow](https://github.com/hananshafi/COVID19-Infection-and-Mortality-Risk/tree/master/assets/workflow.JPG)
+
+![Model](https://github.com/hananshafi/COVID19-Infection-and-Mortality-Risk/COVID-19(1).png)
 
