@@ -25,3 +25,12 @@ Here is the model Workflow:
 
 ![Model](https://github.com/hananshafi/COVID19-Infection-and-Mortality-Risk/blob/master/workflow.png)
 
+# Model Inferring
+
+A sample HTML form is created to get the input from user. The input is processed and then fed to the model for the prediction.
+
+## HTML form for getting input from User
+![Form](https://github.com/hananshafi/COVID19-Infection-and-Mortality-Risk/blob/master/COVID-19(1).png)
+
+## Model Result
+![Form](https://github.com/hananshafi/COVID19-Infection-and-Mortality-Risk/blob/master/COVID-19.png)
